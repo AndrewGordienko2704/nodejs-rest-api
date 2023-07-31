@@ -1,4 +1,4 @@
-const { User } = require("");
+const { User } = require("../../models/user");
 
 const { ctrlWrapper } = require("../../decorators");
 
